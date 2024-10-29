@@ -14,3 +14,5 @@ private_key = params.generate_private_key()
 
 # ok: cryptography-dsa
 private_key = Ed25519PrivateKey.generate()
+
+print("Done")
